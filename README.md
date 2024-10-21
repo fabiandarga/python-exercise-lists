@@ -7,7 +7,7 @@ Beschreibung
 1. Dieses repository klonen
 `git clone https://github.com/git-url/project.git`
 
-2. Ensure you have Python 3.5 or later installed
+2. Sicherstellen, dass Python 3.5 oder höher installiert ist
 `python --version`
 
 ## Diese Übung enhält Tests
