@@ -5,7 +5,7 @@ Beschreibung
 ## Setup
 
 1. Dieses repository klonen
-`git clone https://github.com/git-url/project.git`
+`git clone https://github.com/fabiandarga/python-exercise-lists.git`
 
 2. Sicherstellen, dass Python 3.5 oder höher installiert ist
 `python --version`
