@@ -26,7 +26,7 @@ Tests starten:
 `./run_tests.sh`
 
 ### Universell
-Die testzs können auch über Python gestartet werden:  
+Die tests können auch über Python gestartet werden:  
 `python -m unittest discover tests -f`
 
 ----
